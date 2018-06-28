@@ -1,9 +1,9 @@
-# Updated as of Aug 16, 2017
+# Updated as of Jun 26, 2087
 # Install FROM UBUNTU IMAGE
 FROM ubuntu:16.04
 
 # Author
-MAINTAINER pictolearn
+MAINTAINER AnoopUpadhyay
 
 # RUN COMMAND BASICALLY runs the command in the terminal and creates an image.
 # Install all the updates for UBUNTU
